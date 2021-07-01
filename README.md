@@ -16,3 +16,8 @@ https://raw.githubusercontent.com/theslavicbear/General-Userscripts/main/Imgur%2
 Removes blur from "Premium Content" images.
 
 https://raw.githubusercontent.com/theslavicbear/General-Userscripts/main/Shadbase%20Unblur.js
+
+## Chyoa Like Ratio Calculator
+Adds additional information to story map showing the percentages of likes to views
+
+https://github.com/theslavicbear/General-Userscripts/raw/main/Chyoa%20Like%20Ratio%20Calculator.user.js
